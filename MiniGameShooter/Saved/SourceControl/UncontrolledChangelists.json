@@ -5,7 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/Input/IMC_Default.uasset",
+				"C:/Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/Blueprints/BP_TopDownController.uasset",
+				"C:/Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/Input/Actions/IAMove.uasset",
+				"C:/Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/Blueprints/BP_EnemyBase.uasset",
+				"C:/Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/Characters/Mannequins/Materials/Instances/Enemy/MI_Enemy_01.uasset",
+				"C:/Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/Characters/Mannequins/Materials/Instances/Enemy/MI_Enemy_02.uasset",
+				"C:/Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/Characters/Mannequins/Animations/ABP_Manny.uasset"
 			]
 		}
 	]
