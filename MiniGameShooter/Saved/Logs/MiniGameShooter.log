@@ -2117,3 +2117,206 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.06.20-12.50.44:112][940]LogFileHelpers: Auto-saving content packages took 0.084
 [2025.06.20-12.51.23:633][399]LogSlate: Took 0.001250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
 [2025.06.20-12.51.58:531][567]LogSlate: Window 'Color Picker' being destroyed
+[2025.06.20-12.53.28:606][918]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.20-12.53.28:616][918]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.06.20-12.53.28:616][918]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2025.06.20-12.53.28:623][918]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 6.835 ms
+[2025.06.20-12.53.28:648][918]LogPlayLevel: [PlayLevel] Compiling CompHealth before play...
+[2025.06.20-12.53.28:648][918]LogPlayLevel: [PlayLevel]   Compiling HUD_Shooter as a dependent...
+[2025.06.20-12.53.28:680][918]LogPlayLevel: [PlayLevel]   Compiling BP_TopDownGameMode as a dependent...
+[2025.06.20-12.53.28:695][918]LogPlayLevel: [PlayLevel]   Compiling WB_ShooterHUD as a dependent...
+[2025.06.20-12.53.28:703][918]LogBlueprint: Error: [AssetLog] C:\Users\llewd\My project\MiniGameUnreal5\MiniGameShooter\Content\TopDown\Blueprints\BP_TopDownGameMode.uasset: [Compiler] This blueprint (self) is not a HUD_Shooter_C, therefore ' Target ' must have a connection.
+[2025.06.20-12.53.28:726][918]LogStreaming: Display: FlushAsyncLoading(558): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.20-12.53.29:430][918]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2025.06.20-12.53.29:434][918]LogPlayLevel: PlayLevel: Blueprint regeneration took 811 ms (4 blueprints)
+[2025.06.20-12.53.29:434][918]BlueprintLog: Warning: Blueprint failed to compile:  BP_TopDownGameMode
+[2025.06.20-12.53.36:714][918]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2025.06.20-12.53.36:799][918]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.06.20-12.53.36:799][918]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.06.20-12.53.36:799][918]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.06.20-12.53.36:808][918]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008632s)
+[2025.06.20-12.53.36:808][918]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.008716s)
+[2025.06.20-12.53.36:837][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.06.20-12.53.36:840][918]LogChaosDD: Creating Chaos Debug Draw Scene for world TopDownMap
+[2025.06.20-12.53.36:853][918]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.06.20-12.53.36:853][918]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.06.20-12.53.36:853][918]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.06.20-12.53.36:853][918]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.06.20-12.53.36:855][918]LogWorldPartition: Display: WorldPartition initialize took 1.901 ms (total: 991.176 ms)
+[2025.06.20-12.53.36:855][918]LogPlayLevel: PIE: World Init took: (0.015980s)
+[2025.06.20-12.53.36:856][918]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.06.20-12.53.36:856][918]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.20-12.53.36:856][918]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.20-12.53.36:856][918]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.20-12.53.36:856][918]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.20-12.53.36:856][918]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.20-12.53.36:856][918]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.20-12.53.36:856][918]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.20-12.53.36:856][918]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.20-12.53.36:856][918]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.20-12.53.36:856][918]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.20-12.53.36:856][918]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.20-12.53.36:859][918]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.20-12.53.36:892][918]LogAudioMixer: Display: Using Audio Hardware Device Hörlurar (2- Arctis 7 Game)
+[2025.06.20-12.53.36:893][918]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.20-12.53.36:893][918]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.20-12.53.36:893][918]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.20-12.53.36:894][918]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.06.20-12.53.36:894][918]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.06.20-12.53.36:897][918]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.06.20-12.53.36:897][918]LogInit: FAudioDevice initialized with ID 2.
+[2025.06.20-12.53.36:897][918]LogAudio: Display: Audio Device (ID: 2) registered with world 'TopDownMap'.
+[2025.06.20-12.53.36:898][918]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.06.20-12.53.36:898][918]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.06.20-12.53.36:902][918]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2025.06.20-12.53.36:905][918]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2025.06.20-14.53.36
+[2025.06.20-12.53.36:905][918]LogWorld: Bringing up level for play took: 0.002519
+[2025.06.20-12.53.36:908][918]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2025.06.20-12.53.37:001][918]PIE: Server logged in
+[2025.06.20-12.53.37:002][918]PIE: Play in editor total start time 8,386 seconds.
+[2025.06.20-12.53.42:611][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.20-12.53.42:612][130]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.06.20-12.53.42:612][130]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2025.06.20-12.53.42:613][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-12.53.42:614][130]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap
+[2025.06.20-12.53.42:629][130]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.20-12.53.42:638][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-12.53.42:675][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.20-12.53.42:675][130]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.06.20-12.53.42:675][130]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.06.20-12.53.42:677][130]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.06.20-12.53.42:689][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.06.20-12.53.42:797][131]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2025.06.20-12.53.55:289][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.06.20-12.54.24:636][756]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7753.895996
+[2025.06.20-12.54.24:816][763]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.20-12.54.24:816][763]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7754.052246, Update Interval: 359.122894
+[2025.06.20-12.57.34:665][437]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2025.06.20-12.57.38:537][585]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.20-12.57.38:619][585]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TopDown/UI/WB_ShooterHUD] ([2] browsable assets)...
+[2025.06.20-12.57.38:631][585]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/TopDown/UI/WB_ShooterHUD.WB_ShooterHUD]
+[2025.06.20-12.57.38:631][585]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/UI/WB_ShooterHUD]
+[2025.06.20-12.57.38:631][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/UI/WB_ShooterHUD" FILE="../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/UI/WB_ShooterHUD.uasset" SILENT=true
+[2025.06.20-12.57.38:649][585]LogSavePackage: Moving output files for package: /Game/TopDown/UI/WB_ShooterHUD
+[2025.06.20-12.57.38:650][585]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/WB_ShooterHUD56B9E52746B1DD3814A72C905421E3A1.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/UI/WB_ShooterHUD.uasset'
+[2025.06.20-12.57.38:666][585]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.712 ms (total: 2.12 sec)
+[2025.06.20-12.57.38:736][585]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.20-12.57.38:736][585]LogContentValidation: Enabled validators:
+[2025.06.20-12.57.38:736][585]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.20-12.57.38:736][585]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.20-12.57.38:736][585]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.20-12.57.38:736][585]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.20-12.57.38:736][585]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.20-12.57.38:736][585]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.20-12.57.38:740][585]AssetCheck: /Game/TopDown/UI/WB_ShooterHUD Validating asset
+[2025.06.20-12.57.40:796][668]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.20-12.57.40:889][668]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/UI/HUD_Shooter] ([2] browsable assets)...
+[2025.06.20-12.57.40:889][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/UI/HUD_Shooter]
+[2025.06.20-12.57.40:889][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/UI/HUD_Shooter" FILE="../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/UI/HUD_Shooter.uasset" SILENT=true
+[2025.06.20-12.57.40:897][668]LogSavePackage: Moving output files for package: /Game/TopDown/UI/HUD_Shooter
+[2025.06.20-12.57.40:898][668]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/HUD_Shooter7773E0764209C26460A8CC8ADE10DEB4.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/UI/HUD_Shooter.uasset'
+[2025.06.20-12.57.40:912][668]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.868 ms (total: 2.23 sec)
+[2025.06.20-12.57.40:952][668]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.20-12.57.40:952][668]LogContentValidation: Enabled validators:
+[2025.06.20-12.57.40:952][668]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.20-12.57.40:952][668]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.20-12.57.40:952][668]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.20-12.57.40:952][668]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.20-12.57.40:952][668]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.20-12.57.40:952][668]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.20-12.57.40:952][668]AssetCheck: /Game/TopDown/UI/HUD_Shooter Validating asset
+[2025.06.20-12.57.42:923][743]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.20-12.57.42:974][743]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownGameMode] ([2] browsable assets)...
+[2025.06.20-12.57.42:974][743]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownGameMode]
+[2025.06.20-12.57.42:984][743]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownGameMode
+[2025.06.20-12.57.42:985][743]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/BP_TopDownGameMode6000D09F43CBBBECCA4C168712A9089C.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset'
+[2025.06.20-12.57.42:998][743]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.038 ms (total: 2.31 sec)
+[2025.06.20-12.57.43:055][743]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.20-12.57.43:055][743]LogContentValidation: Enabled validators:
+[2025.06.20-12.57.43:055][743]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.20-12.57.43:055][743]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.20-12.57.43:055][743]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.20-12.57.43:055][743]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.20-12.57.43:055][743]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.20-12.57.43:055][743]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.20-12.57.43:055][743]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownGameMode Validating asset
+[2025.06.20-12.58.23:875][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.06.20-12.58.25:338][310]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.20-12.58.25:397][310]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TopDown/Blueprints/BP_SpawnerBase] ([2] browsable assets)...
+[2025.06.20-12.58.25:459][310]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_SpawnerBase.BP_SpawnerBase]
+[2025.06.20-12.58.25:459][310]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_SpawnerBase]
+[2025.06.20-12.58.25:478][310]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_SpawnerBase
+[2025.06.20-12.58.25:479][310]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/BP_SpawnerBase32799E2743C5A46768E6BEBE8272A89E.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/Blueprints/BP_SpawnerBase.uasset'
+[2025.06.20-12.58.25:491][310]LogFileHelpers: InternalPromptForCheckoutAndSave took 152.766 ms (total: 2.46 sec)
+[2025.06.20-12.58.25:566][310]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.20-12.58.25:567][310]LogContentValidation: Enabled validators:
+[2025.06.20-12.58.25:567][310]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.20-12.58.25:567][310]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.20-12.58.25:567][310]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.20-12.58.25:567][310]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.20-12.58.25:567][310]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.20-12.58.25:567][310]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.20-12.58.25:567][310]AssetCheck: /Game/TopDown/Blueprints/BP_SpawnerBase Validating asset
+[2025.06.20-12.58.42:294][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.06.20-12.58.43:786][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.20-12.58.43:856][ 26]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2025.06.20-12.58.43:915][ 26]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter]
+[2025.06.20-12.58.43:915][ 26]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2025.06.20-12.58.43:925][ 26]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2025.06.20-12.58.43:926][ 26]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/BP_TopDownCharacterB59CA3CC4F15A19B1954D68A03A1464B.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2025.06.20-12.58.43:938][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave took 151.820 ms (total: 2.61 sec)
+[2025.06.20-12.58.43:985][ 26]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.20-12.58.43:985][ 26]LogContentValidation: Enabled validators:
+[2025.06.20-12.58.43:985][ 26]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.20-12.58.43:985][ 26]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.20-12.58.43:985][ 26]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.20-12.58.43:985][ 26]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.20-12.58.43:985][ 26]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.20-12.58.43:985][ 26]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.20-12.58.43:985][ 26]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownCharacter Validating asset
+[2025.06.20-12.59.12:777][126]LogScript: Warning: Attempted to access REINST_BP_EnemyBase_C_4 via property Character, but REINST_BP_EnemyBase_C_4 is not valid (pending kill or garbage)
+	ABP_Manny_C /Engine/Transient.World_5:PersistentLevel.REINST_BP_EnemyBase_C_4.CharacterMesh0.ABP_Manny_C_1
+	Function /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny_C:ExecuteUbergraph_ABP_Manny:027A
+[2025.06.20-12.59.12:777][126]LogScript: Warning: Attempted to access BP_TopDownCharacter_C_3 via property Character, but BP_TopDownCharacter_C_3 is not valid (pending kill or garbage)
+	ABP_Manny_C /Engine/Transient.World_2:PersistentLevel.BP_TopDownCharacter_C_3.CharacterMesh0.ABP_Manny_C_1
+	Function /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny_C:ExecuteUbergraph_ABP_Manny:027A
+[2025.06.20-12.59.12:777][126]LogScript: Warning: Attempted to access REINST_BP_EnemyBase_C_0 via property Character, but REINST_BP_EnemyBase_C_0 is not valid (pending kill or garbage)
+	ABP_Manny_C /Engine/Transient.World_3:PersistentLevel.REINST_BP_EnemyBase_C_0.CharacterMesh0.ABP_Manny_C_0
+	Function /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny_C:ExecuteUbergraph_ABP_Manny:027A
+[2025.06.20-12.59.12:778][126]LogScript: Warning: Attempted to access REINST_BP_EnemyBase_C_2 via property Character, but REINST_BP_EnemyBase_C_2 is not valid (pending kill or garbage)
+	ABP_Manny_C /Engine/Transient.World_12:PersistentLevel.REINST_BP_EnemyBase_C_2.CharacterMesh0.ABP_Manny_C_1
+	Function /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny_C:ExecuteUbergraph_ABP_Manny:027A
+[2025.06.20-12.59.12:818][126]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2025.06.20-12.59.13:619][143]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.20-12.59.13:681][143]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_EnemyBase] ([2] browsable assets)...
+[2025.06.20-12.59.13:739][143]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_EnemyBase.BP_EnemyBase]
+[2025.06.20-12.59.13:739][143]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_EnemyBase]
+[2025.06.20-12.59.13:755][143]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_EnemyBase
+[2025.06.20-12.59.13:756][143]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/BP_EnemyBase02BCB6D249DD7BCC16D2D080699C1A16.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/Blueprints/BP_EnemyBase.uasset'
+[2025.06.20-12.59.13:768][143]LogFileHelpers: InternalPromptForCheckoutAndSave took 149.436 ms (total: 2.76 sec)
+[2025.06.20-12.59.13:831][143]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.20-12.59.13:831][143]LogContentValidation: Enabled validators:
+[2025.06.20-12.59.13:831][143]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.20-12.59.13:831][143]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.20-12.59.13:831][143]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.20-12.59.13:831][143]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.20-12.59.13:831][143]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.20-12.59.13:831][143]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.20-12.59.13:831][143]AssetCheck: /Game/TopDown/Blueprints/BP_EnemyBase Validating asset
+[2025.06.20-12.59.38:431][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2025.06.20-12.59.40:134][184]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.20-12.59.40:242][184]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TopDown/Gameplay/BP_Projectile] ([2] browsable assets)...
+[2025.06.20-12.59.40:302][184]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Gameplay/BP_Projectile.BP_Projectile]
+[2025.06.20-12.59.40:302][184]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Gameplay/BP_Projectile]
+[2025.06.20-12.59.40:311][184]LogSavePackage: Moving output files for package: /Game/TopDown/Gameplay/BP_Projectile
+[2025.06.20-12.59.40:312][184]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/BP_Projectile5405D7604FBA88394AFB0DA300855FA3.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/Gameplay/BP_Projectile.uasset'
+[2025.06.20-12.59.40:325][184]LogFileHelpers: InternalPromptForCheckoutAndSave took 190.057 ms (total: 2.95 sec)
+[2025.06.20-12.59.40:390][184]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.20-12.59.40:390][184]LogContentValidation: Enabled validators:
+[2025.06.20-12.59.40:390][184]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.20-12.59.40:390][184]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.20-12.59.40:390][184]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.20-12.59.40:390][184]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.20-12.59.40:390][184]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.20-12.59.40:390][184]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.20-12.59.40:390][184]AssetCheck: /Game/TopDown/Gameplay/BP_Projectile Validating asset
