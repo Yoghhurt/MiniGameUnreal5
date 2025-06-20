@@ -1643,3 +1643,477 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.06.20-11.33.55:285][ 81]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2924.455078
 [2025.06.20-11.33.56:287][ 83]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.06.20-11.33.56:287][ 83]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2925.116699, Update Interval: 346.444275
+[2025.06.20-11.35.19:449][361]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode
+[2025.06.20-11.35.19:450][361]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.06.20-11.35.23:241][486]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.06.20-11.35.23:241][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-11.35.23:281][486]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode
+[2025.06.20-11.35.23:282][486]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.06.20-11.35.24:037][486]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2025.06.20-11.36.02:060][ 52]LogSlate: Took 0.022482 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.06.20-11.40.27:699][537]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3316.866455
+[2025.06.20-11.40.27:933][543]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.20-11.40.27:933][543]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3317.071289, Update Interval: 338.416687
+[2025.06.20-11.41.52:049][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.06.20-11.41.52:056][983]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/ZM/Y1HGL71DBTEHO0IOFM9ZFC_Auto4
+[2025.06.20-11.41.52:056][983]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/Y1HGL71DBTEHO0IOFM9ZFC_Auto477B179D74107E0FF24CC4B9730CF5591.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/ZM/Y1HGL71DBTEHO0IOFM9ZFC_Auto4.uasset'
+[2025.06.20-11.41.52:061][983]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/QQ/E8BYBQLJPDQB9YJZ6RXA79_Auto4
+[2025.06.20-11.41.52:061][983]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/E8BYBQLJPDQB9YJZ6RXA79_Auto477776BCA433519C50F780BA3DF12C434.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/QQ/E8BYBQLJPDQB9YJZ6RXA79_Auto4.uasset'
+[2025.06.20-11.41.52:066][983]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/22/CB79FVKO1SXHY8SAJUS9M8_Auto4
+[2025.06.20-11.41.52:066][983]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/CB79FVKO1SXHY8SAJUS9M8_Auto4FACCE3B44BAD4ECB7E5BFC91325FA055.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/22/CB79FVKO1SXHY8SAJUS9M8_Auto4.uasset'
+[2025.06.20-11.41.52:071][983]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/J3/6NOQYEE1GYT4WM76WGHXDV_Auto4
+[2025.06.20-11.41.52:071][983]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/6NOQYEE1GYT4WM76WGHXDV_Auto46AD3FAE24FE12708ABBC87889EB3E64A.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/J3/6NOQYEE1GYT4WM76WGHXDV_Auto4.uasset'
+[2025.06.20-11.41.52:077][983]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/RT/GRK3I3WSGX9K33HQWA6NH3_Auto4
+[2025.06.20-11.41.52:077][983]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/GRK3I3WSGX9K33HQWA6NH3_Auto46C6AE5F7426344C7465E388BC68FEFC1.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/RT/GRK3I3WSGX9K33HQWA6NH3_Auto4.uasset'
+[2025.06.20-11.41.52:079][983]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.068
+[2025.06.20-11.41.52:079][983]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.068
+[2025.06.20-11.41.52:080][983]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownGameMode] ([2] browsable assets)...
+[2025.06.20-11.41.52:081][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownGameMode]
+[2025.06.20-11.41.52:087][983]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Blueprints/BP_TopDownGameMode_Auto4
+[2025.06.20-11.41.52:087][983]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/BP_TopDownGameMode_Auto457DA20A440DAB318C099ADBD2943691A.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/Autosaves/Game/TopDown/Blueprints/BP_TopDownGameMode_Auto4.uasset'
+[2025.06.20-11.41.52:089][983]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Blueprints/CompHealth] ([2] browsable assets)...
+[2025.06.20-11.41.52:089][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/CompHealth]
+[2025.06.20-11.41.52:103][983]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Blueprints/CompHealth_Auto4
+[2025.06.20-11.41.52:103][983]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/CompHealth_Auto484D2C5F14177F496F57176B5B9F96298.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/Autosaves/Game/TopDown/Blueprints/CompHealth_Auto4.uasset'
+[2025.06.20-11.41.52:104][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_EnemyBase] ([2] browsable assets)...
+[2025.06.20-11.41.52:168][983]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_EnemyBase.BP_EnemyBase]
+[2025.06.20-11.41.52:168][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_EnemyBase]
+[2025.06.20-11.41.52:182][983]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Blueprints/BP_EnemyBase_Auto4
+[2025.06.20-11.41.52:182][983]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/BP_EnemyBase_Auto4BB44F51645D1D88A265F8FB410E6D4C1.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/Autosaves/Game/TopDown/Blueprints/BP_EnemyBase_Auto4.uasset'
+[2025.06.20-11.41.52:184][983]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TopDown/Blueprints/BP_SpawnerBase] ([2] browsable assets)...
+[2025.06.20-11.41.52:198][983]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_SpawnerBase.BP_SpawnerBase]
+[2025.06.20-11.41.52:199][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_SpawnerBase]
+[2025.06.20-11.41.52:220][983]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Blueprints/BP_SpawnerBase_Auto4
+[2025.06.20-11.41.52:220][983]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/BP_SpawnerBase_Auto4C932261D48DDC76BB93315B1D8C2990C.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/Autosaves/Game/TopDown/Blueprints/BP_SpawnerBase_Auto4.uasset'
+[2025.06.20-11.41.52:222][983]LogFileHelpers: Auto-saving content packages took 0.143
+[2025.06.20-11.46.19:116][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.06.20-11.46.20:789][860]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.20-11.46.20:861][860]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownGameMode] ([2] browsable assets)...
+[2025.06.20-11.46.20:862][860]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownGameMode]
+[2025.06.20-11.46.20:872][860]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownGameMode
+[2025.06.20-11.46.20:873][860]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/BP_TopDownGameMode6C85901E47D5024100BF9BB698E03709.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset'
+[2025.06.20-11.46.20:886][860]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.686 ms (total: 599.657 ms)
+[2025.06.20-11.46.20:942][860]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.20-11.46.20:942][860]LogContentValidation: Enabled validators:
+[2025.06.20-11.46.20:942][860]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.20-11.46.20:942][860]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.20-11.46.20:942][860]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.20-11.46.20:942][860]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.20-11.46.20:942][860]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.20-11.46.20:942][860]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.20-11.46.20:942][860]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownGameMode Validating asset
+[2025.06.20-11.46.21:619][887]LogDerivedDataCache: C:/Users/llewd/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.004 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.06.20-11.46.24:219][978]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.20-11.46.24:266][978]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Blueprints/CompHealth] ([2] browsable assets)...
+[2025.06.20-11.46.24:266][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/CompHealth]
+[2025.06.20-11.46.24:266][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/CompHealth" FILE="../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/Blueprints/CompHealth.uasset" SILENT=true
+[2025.06.20-11.46.24:279][978]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/CompHealth
+[2025.06.20-11.46.24:280][978]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/CompHealth17F44D6641B893396906CBACB68FBE07.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/Blueprints/CompHealth.uasset'
+[2025.06.20-11.46.24:291][978]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.080 ms (total: 672.737 ms)
+[2025.06.20-11.46.24:361][978]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.20-11.46.24:361][978]LogContentValidation: Enabled validators:
+[2025.06.20-11.46.24:361][978]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.20-11.46.24:361][978]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.20-11.46.24:361][978]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.20-11.46.24:361][978]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.20-11.46.24:361][978]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.20-11.46.24:361][978]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.20-11.46.24:361][978]AssetCheck: /Game/TopDown/Blueprints/CompHealth Validating asset
+[2025.06.20-11.46.27:156][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.06.20-11.46.27:173][ 70]LogScript: Warning: Accessed None trying to read property GameMode
+	BP_SpawnerBase_C /Engine/Transient.World_14:PersistentLevel.BP_SpawnerBase_C_5
+	Function /Game/TopDown/Blueprints/BP_SpawnerBase.BP_SpawnerBase_C:ExecuteUbergraph_BP_SpawnerBase:00B8
+[2025.06.20-11.46.27:173][ 70]LogScript: Warning: Accessed None trying to read property GameMode
+	BP_SpawnerBase_C /Engine/Transient.World_14:PersistentLevel.BP_SpawnerBase_C_5
+	Function /Game/TopDown/Blueprints/BP_SpawnerBase.BP_SpawnerBase_C:ExecuteUbergraph_BP_SpawnerBase:0088
+[2025.06.20-11.46.29:128][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.06.20-11.46.29:144][125]LogScript: Warning: Accessed None trying to read property GameMode
+	BP_TopDownCharacter_C /Engine/Transient.World_2:PersistentLevel.BP_TopDownCharacter_C_1
+	Function /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter_C:ExecuteUbergraph_BP_TopDownCharacter:0127
+[2025.06.20-11.46.33:204][272]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.20-11.46.33:275][272]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TopDown/Blueprints/BP_SpawnerBase] ([2] browsable assets)...
+[2025.06.20-11.46.33:343][272]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_SpawnerBase.BP_SpawnerBase]
+[2025.06.20-11.46.33:343][272]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_SpawnerBase]
+[2025.06.20-11.46.33:364][272]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_SpawnerBase
+[2025.06.20-11.46.33:365][272]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/BP_SpawnerBase02715CE045C705186F060F9A5F99A82E.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/Blueprints/BP_SpawnerBase.uasset'
+[2025.06.20-11.46.33:375][272]LogFileHelpers: InternalPromptForCheckoutAndSave took 170.802 ms (total: 843.540 ms)
+[2025.06.20-11.46.33:437][272]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.20-11.46.33:437][272]LogContentValidation: Enabled validators:
+[2025.06.20-11.46.33:437][272]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.20-11.46.33:437][272]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.20-11.46.33:437][272]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.20-11.46.33:437][272]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.20-11.46.33:437][272]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.20-11.46.33:437][272]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.20-11.46.33:437][272]AssetCheck: /Game/TopDown/Blueprints/BP_SpawnerBase Validating asset
+[2025.06.20-11.46.35:157][336]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.20-11.46.35:226][336]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2025.06.20-11.46.35:288][336]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter]
+[2025.06.20-11.46.35:288][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2025.06.20-11.46.35:300][336]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2025.06.20-11.46.35:301][336]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/BP_TopDownCharacter192D320840FC40ECE553338A9392493E.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2025.06.20-11.46.35:314][336]LogFileHelpers: InternalPromptForCheckoutAndSave took 155.698 ms (total: 999.238 ms)
+[2025.06.20-11.46.35:375][336]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.20-11.46.35:375][336]LogContentValidation: Enabled validators:
+[2025.06.20-11.46.35:375][336]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.20-11.46.35:375][336]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.20-11.46.35:375][336]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.20-11.46.35:375][336]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.20-11.46.35:375][336]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.20-11.46.35:375][336]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.20-11.46.35:375][336]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownCharacter Validating asset
+[2025.06.20-11.46.36:805][392]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.20-11.46.36:879][392]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Blueprints/BP_EnemyBase] ([2] browsable assets)...
+[2025.06.20-11.46.36:879][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_EnemyBase]
+[2025.06.20-11.46.36:892][392]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_EnemyBase
+[2025.06.20-11.46.36:893][392]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/BP_EnemyBaseF8FDB08E4FBD496DE391BCBD3DD35760.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/Blueprints/BP_EnemyBase.uasset'
+[2025.06.20-11.46.36:904][392]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.216 ms (total: 1.09 sec)
+[2025.06.20-11.46.36:976][392]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.20-11.46.36:976][392]LogContentValidation: Enabled validators:
+[2025.06.20-11.46.36:976][392]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.20-11.46.36:976][392]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.20-11.46.36:976][392]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.20-11.46.36:976][392]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.20-11.46.36:976][392]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.20-11.46.36:976][392]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.20-11.46.36:976][392]AssetCheck: /Game/TopDown/Blueprints/BP_EnemyBase Validating asset
+[2025.06.20-11.46.38:631][456]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.20-11.46.38:696][456]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Gameplay/BP_Projectile] ([2] browsable assets)...
+[2025.06.20-11.46.38:696][456]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Gameplay/BP_Projectile]
+[2025.06.20-11.46.38:705][456]LogSavePackage: Moving output files for package: /Game/TopDown/Gameplay/BP_Projectile
+[2025.06.20-11.46.38:706][456]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/BP_Projectile9647FA714CE4271962F65A8D8AA05548.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/Gameplay/BP_Projectile.uasset'
+[2025.06.20-11.46.38:717][456]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.630 ms (total: 1.18 sec)
+[2025.06.20-11.46.38:776][456]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.20-11.46.38:776][456]LogContentValidation: Enabled validators:
+[2025.06.20-11.46.38:776][456]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.20-11.46.38:776][456]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.20-11.46.38:776][456]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.20-11.46.38:776][456]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.20-11.46.38:776][456]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.20-11.46.38:776][456]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.20-11.46.38:776][456]AssetCheck: /Game/TopDown/Gameplay/BP_Projectile Validating asset
+[2025.06.20-11.46.46:411][773]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3695.576416
+[2025.06.20-11.46.46:592][780]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.20-11.46.46:592][781]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3695.734619, Update Interval: 317.997986
+[2025.06.20-11.50.24:312][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.06.20-11.51.12:377][934]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.06.20-11.51.12:391][934]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.06.20-11.51.12:411][934]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.06.20-11.51.12:456][935]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.06.20-11.51.19:570][190]LogContentBrowser: Attempting asset rename: NewBlueprint -> HUD_Shooter
+[2025.06.20-11.51.19:585][190]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.06.20-11.51.21:471][251]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/UI/HUD_Shooter.HUD_Shooter
+[2025.06.20-11.51.21:472][251]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.06.20-11.51.38:596][842]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.06.20-11.51.38:606][842]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.06.20-11.51.38:625][842]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.06.20-11.51.38:673][843]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.06.20-11.51.45:878][141]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WB_ShooterHUD
+[2025.06.20-11.51.45:891][141]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.06.20-11.51.47:361][202]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/TopDown/UI/WB_ShooterHUD.WB_ShooterHUD
+[2025.06.20-11.51.47:361][202]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.06.20-11.51.47:375][202]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.06.20-11.51.47:387][202]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2025.06.20-11.51.48:310][202]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2025.06.20-11.51.48:327][202]LogSlate: Took 0.015871 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.06.20-11.52.36:743][ 59]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4045.919678
+[2025.06.20-11.52.36:950][ 67]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.20-11.52.36:950][ 67]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4046.103027, Update Interval: 324.406860
+[2025.06.20-11.56.38:572][714]LogEditorTransaction: Undo Reset to Default
+[2025.06.20-11.58.57:831][787]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4427.010254
+[2025.06.20-11.58.58:843][790]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.20-11.58.58:843][790]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4427.684570, Update Interval: 326.617035
+[2025.06.20-12.00.13:856][269]LogSlate: Window 'Color Picker' being destroyed
+[2025.06.20-12.00.33:559][985]LogSlate: Window 'Color Picker' being destroyed
+[2025.06.20-12.01.17:294][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.06.20-12.01.18:953][322]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.20-12.01.19:028][322]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TopDown/UI/WB_ShooterHUD] ([2] browsable assets)...
+[2025.06.20-12.01.19:036][322]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/TopDown/UI/WB_ShooterHUD.WB_ShooterHUD]
+[2025.06.20-12.01.19:036][322]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/UI/WB_ShooterHUD]
+[2025.06.20-12.01.19:036][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/UI/WB_ShooterHUD" FILE="../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/UI/WB_ShooterHUD.uasset" SILENT=true
+[2025.06.20-12.01.19:043][322]LogSavePackage: Moving output files for package: /Game/TopDown/UI/WB_ShooterHUD
+[2025.06.20-12.01.19:043][322]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/WB_ShooterHUD3C561904420BF5E56CB1F6879601D29C.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/UI/WB_ShooterHUD.uasset'
+[2025.06.20-12.01.19:057][322]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.697 ms (total: 1.28 sec)
+[2025.06.20-12.01.19:126][322]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.20-12.01.19:126][322]LogContentValidation: Enabled validators:
+[2025.06.20-12.01.19:126][322]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.20-12.01.19:126][322]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.20-12.01.19:126][322]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.20-12.01.19:126][322]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.20-12.01.19:126][322]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.20-12.01.19:126][322]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.20-12.01.19:128][322]AssetCheck: /Game/TopDown/UI/WB_ShooterHUD Validating asset
+[2025.06.20-12.03.07:429][670]LogSlate: Window 'Change Variable Type' being destroyed
+[2025.06.20-12.03.27:055][244]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.06.20-12.03.27:060][244]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.06.20-12.05.04:178][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.06.20-12.05.04:189][344]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/ZM/Y1HGL71DBTEHO0IOFM9ZFC_Auto5
+[2025.06.20-12.05.04:189][344]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/Y1HGL71DBTEHO0IOFM9ZFC_Auto57AC353244E49106D3921289072766C68.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/ZM/Y1HGL71DBTEHO0IOFM9ZFC_Auto5.uasset'
+[2025.06.20-12.05.04:193][344]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/QQ/E8BYBQLJPDQB9YJZ6RXA79_Auto5
+[2025.06.20-12.05.04:193][344]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/E8BYBQLJPDQB9YJZ6RXA79_Auto58D2777D54D18B365027624AE32F4C53A.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/QQ/E8BYBQLJPDQB9YJZ6RXA79_Auto5.uasset'
+[2025.06.20-12.05.04:199][344]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/22/CB79FVKO1SXHY8SAJUS9M8_Auto5
+[2025.06.20-12.05.04:199][344]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/CB79FVKO1SXHY8SAJUS9M8_Auto5DB76468546BA0F4FED1437936005CC04.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/22/CB79FVKO1SXHY8SAJUS9M8_Auto5.uasset'
+[2025.06.20-12.05.04:204][344]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/J3/6NOQYEE1GYT4WM76WGHXDV_Auto5
+[2025.06.20-12.05.04:204][344]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/6NOQYEE1GYT4WM76WGHXDV_Auto51AF9810841AD6822E2A235BDF45502D0.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/J3/6NOQYEE1GYT4WM76WGHXDV_Auto5.uasset'
+[2025.06.20-12.05.04:209][344]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/RT/GRK3I3WSGX9K33HQWA6NH3_Auto5
+[2025.06.20-12.05.04:209][344]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/GRK3I3WSGX9K33HQWA6NH3_Auto5C2E6E84843E37583E1F879A2DE3CECC7.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/RT/GRK3I3WSGX9K33HQWA6NH3_Auto5.uasset'
+[2025.06.20-12.05.04:210][344]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.355
+[2025.06.20-12.05.04:210][344]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.355
+[2025.06.20-12.05.04:211][344]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2025.06.20-12.05.04:292][344]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter]
+[2025.06.20-12.05.04:292][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2025.06.20-12.05.04:303][344]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Blueprints/BP_TopDownCharacter_Auto5
+[2025.06.20-12.05.04:304][344]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/BP_TopDownCharacter_Auto5100C0B1D4C8647B3FA7F81870DEA3A7B.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/Autosaves/Game/TopDown/Blueprints/BP_TopDownCharacter_Auto5.uasset'
+[2025.06.20-12.05.04:305][344]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_EnemyBase] ([2] browsable assets)...
+[2025.06.20-12.05.04:316][344]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_EnemyBase.BP_EnemyBase]
+[2025.06.20-12.05.04:316][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_EnemyBase]
+[2025.06.20-12.05.04:334][344]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Blueprints/BP_EnemyBase_Auto5
+[2025.06.20-12.05.04:335][344]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/BP_EnemyBase_Auto5F7424E6444D886F9CA6CA3815EC8A546.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/Autosaves/Game/TopDown/Blueprints/BP_EnemyBase_Auto5.uasset'
+[2025.06.20-12.05.04:337][344]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TopDown/Blueprints/BP_SpawnerBase] ([2] browsable assets)...
+[2025.06.20-12.05.04:349][344]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_SpawnerBase.BP_SpawnerBase]
+[2025.06.20-12.05.04:349][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_SpawnerBase]
+[2025.06.20-12.05.04:369][344]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Blueprints/BP_SpawnerBase_Auto5
+[2025.06.20-12.05.04:369][344]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/BP_SpawnerBase_Auto5D3401BF643340004F8A6D9A457A4A1C9.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/Autosaves/Game/TopDown/Blueprints/BP_SpawnerBase_Auto5.uasset'
+[2025.06.20-12.05.04:371][344]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/UI/HUD_Shooter] ([2] browsable assets)...
+[2025.06.20-12.05.04:371][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/UI/HUD_Shooter]
+[2025.06.20-12.05.04:375][344]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/UI/HUD_Shooter_Auto5
+[2025.06.20-12.05.04:378][344]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/HUD_Shooter_Auto54283ED0A476473825FFB3BAD3178E74F.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/Autosaves/Game/TopDown/UI/HUD_Shooter_Auto5.uasset'
+[2025.06.20-12.05.04:378][344]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TopDown/UI/WB_ShooterHUD] ([2] browsable assets)...
+[2025.06.20-12.05.04:384][344]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/TopDown/UI/WB_ShooterHUD.WB_ShooterHUD]
+[2025.06.20-12.05.04:385][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/UI/WB_ShooterHUD]
+[2025.06.20-12.05.04:394][344]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/UI/WB_ShooterHUD_Auto5
+[2025.06.20-12.05.04:394][344]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/WB_ShooterHUD_Auto5ADB30041437258E8955F059641FD44FA.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/Autosaves/Game/TopDown/UI/WB_ShooterHUD_Auto5.uasset'
+[2025.06.20-12.05.04:396][344]LogFileHelpers: Auto-saving content packages took 0.185
+[2025.06.20-12.05.09:529][516]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4798.724121
+[2025.06.20-12.05.09:718][521]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.20-12.05.09:718][521]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4798.893066, Update Interval: 324.822540
+[2025.06.20-12.05.58:273][709]LogSlate: Window 'Change Variable Type' being destroyed
+[2025.06.20-12.06.11:278][294]LogSlate: Window 'Change Variable Type' being destroyed
+[2025.06.20-12.06.45:186][325]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2025.06.20-12.10.50:465][385]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2025.06.20-12.11.00:393][806]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.06.20-12.11.00:405][806]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.06.20-12.11.31:121][495]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5180.338379
+[2025.06.20-12.11.31:304][503]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.20-12.11.31:304][503]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5180.497559, Update Interval: 330.162048
+[2025.06.20-12.12.45:175][310]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2025.06.20-12.12.50:826][521]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.20-12.12.50:884][521]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownGameMode] ([2] browsable assets)...
+[2025.06.20-12.12.50:884][521]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownGameMode]
+[2025.06.20-12.12.50:894][521]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownGameMode
+[2025.06.20-12.12.50:895][521]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/BP_TopDownGameMode8161C88849CB01CA23AAACA276512C04.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset'
+[2025.06.20-12.12.50:906][521]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.978 ms (total: 1.36 sec)
+[2025.06.20-12.12.50:983][521]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.20-12.12.50:983][521]LogContentValidation: Enabled validators:
+[2025.06.20-12.12.50:983][521]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.20-12.12.50:983][521]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.20-12.12.50:983][521]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.20-12.12.50:983][521]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.20-12.12.50:983][521]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.20-12.12.50:983][521]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.20-12.12.50:983][521]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownGameMode Validating asset
+[2025.06.20-12.12.53:493][623]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.20-12.12.53:537][623]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TopDown/UI/WB_ShooterHUD] ([2] browsable assets)...
+[2025.06.20-12.12.53:544][623]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/TopDown/UI/WB_ShooterHUD.WB_ShooterHUD]
+[2025.06.20-12.12.53:544][623]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/UI/WB_ShooterHUD]
+[2025.06.20-12.12.53:544][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/UI/WB_ShooterHUD" FILE="../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/UI/WB_ShooterHUD.uasset" SILENT=true
+[2025.06.20-12.12.53:556][623]LogSavePackage: Moving output files for package: /Game/TopDown/UI/WB_ShooterHUD
+[2025.06.20-12.12.53:557][623]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/WB_ShooterHUD0C6289A843FF40CFD79330AF44D8D90F.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/UI/WB_ShooterHUD.uasset'
+[2025.06.20-12.12.53:567][623]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.329 ms (total: 1.44 sec)
+[2025.06.20-12.12.53:634][623]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.20-12.12.53:634][623]LogContentValidation: Enabled validators:
+[2025.06.20-12.12.53:634][623]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.20-12.12.53:634][623]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.20-12.12.53:634][623]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.20-12.12.53:634][623]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.20-12.12.53:634][623]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.20-12.12.53:634][623]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.20-12.12.53:637][623]AssetCheck: /Game/TopDown/UI/WB_ShooterHUD Validating asset
+[2025.06.20-12.12.55:294][694]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.20-12.12.55:355][694]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/UI/HUD_Shooter] ([2] browsable assets)...
+[2025.06.20-12.12.55:355][694]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/UI/HUD_Shooter]
+[2025.06.20-12.12.55:355][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/UI/HUD_Shooter" FILE="../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/UI/HUD_Shooter.uasset" SILENT=true
+[2025.06.20-12.12.55:359][694]LogSavePackage: Moving output files for package: /Game/TopDown/UI/HUD_Shooter
+[2025.06.20-12.12.55:359][694]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/HUD_ShooterB16B2B0F4B149F6BF9E5FF8A57DEB571.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/UI/HUD_Shooter.uasset'
+[2025.06.20-12.12.55:376][694]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.334 ms (total: 1.52 sec)
+[2025.06.20-12.12.55:436][694]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.20-12.12.55:437][694]LogContentValidation: Enabled validators:
+[2025.06.20-12.12.55:437][694]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.20-12.12.55:437][694]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.20-12.12.55:437][694]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.20-12.12.55:437][694]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.20-12.12.55:437][694]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.20-12.12.55:437][694]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.20-12.12.55:437][694]AssetCheck: /Game/TopDown/UI/HUD_Shooter Validating asset
+[2025.06.20-12.12.57:308][765]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.20-12.12.57:378][765]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TopDown/Blueprints/BP_SpawnerBase] ([2] browsable assets)...
+[2025.06.20-12.12.57:442][765]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_SpawnerBase.BP_SpawnerBase]
+[2025.06.20-12.12.57:442][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_SpawnerBase]
+[2025.06.20-12.12.57:460][765]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_SpawnerBase
+[2025.06.20-12.12.57:461][765]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/BP_SpawnerBase0E10CD424ECE9D01F4442DB0F4303A13.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/Blueprints/BP_SpawnerBase.uasset'
+[2025.06.20-12.12.57:472][765]LogFileHelpers: InternalPromptForCheckoutAndSave took 165.104 ms (total: 1.69 sec)
+[2025.06.20-12.12.57:539][765]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.20-12.12.57:539][765]LogContentValidation: Enabled validators:
+[2025.06.20-12.12.57:539][765]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.20-12.12.57:539][765]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.20-12.12.57:539][765]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.20-12.12.57:539][765]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.20-12.12.57:539][765]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.20-12.12.57:539][765]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.20-12.12.57:539][765]AssetCheck: /Game/TopDown/Blueprints/BP_SpawnerBase Validating asset
+[2025.06.20-12.12.59:481][839]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.20-12.12.59:544][839]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2025.06.20-12.12.59:604][839]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter]
+[2025.06.20-12.12.59:604][839]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2025.06.20-12.12.59:614][839]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2025.06.20-12.12.59:614][839]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/BP_TopDownCharacterD29577714C40CC3C3F7957857EBFB8A4.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2025.06.20-12.12.59:627][839]LogFileHelpers: InternalPromptForCheckoutAndSave took 145.244 ms (total: 1.83 sec)
+[2025.06.20-12.12.59:673][839]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.20-12.12.59:673][839]LogContentValidation: Enabled validators:
+[2025.06.20-12.12.59:673][839]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.20-12.12.59:674][839]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.20-12.12.59:674][839]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.20-12.12.59:674][839]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.20-12.12.59:674][839]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.20-12.12.59:674][839]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.20-12.12.59:674][839]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownCharacter Validating asset
+[2025.06.20-12.13.01:035][887]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.20-12.13.01:101][887]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_EnemyBase] ([2] browsable assets)...
+[2025.06.20-12.13.01:165][887]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_EnemyBase.BP_EnemyBase]
+[2025.06.20-12.13.01:165][887]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_EnemyBase]
+[2025.06.20-12.13.01:180][887]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_EnemyBase
+[2025.06.20-12.13.01:181][887]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/BP_EnemyBase060848B049248FEBC13ABABAD11EF46A.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/Blueprints/BP_EnemyBase.uasset'
+[2025.06.20-12.13.01:193][887]LogFileHelpers: InternalPromptForCheckoutAndSave took 158.147 ms (total: 1.99 sec)
+[2025.06.20-12.13.01:260][887]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.20-12.13.01:260][887]LogContentValidation: Enabled validators:
+[2025.06.20-12.13.01:260][887]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.20-12.13.01:260][887]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.20-12.13.01:260][887]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.20-12.13.01:260][887]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.20-12.13.01:260][887]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.20-12.13.01:260][887]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.20-12.13.01:261][887]AssetCheck: /Game/TopDown/Blueprints/BP_EnemyBase Validating asset
+[2025.06.20-12.15.04:780][969]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2025.06.20-12.15.04:790][969]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/ZM/Y1HGL71DBTEHO0IOFM9ZFC_Auto6
+[2025.06.20-12.15.04:790][969]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/Y1HGL71DBTEHO0IOFM9ZFC_Auto6964D7EFB4B40887749C59BBAB09BC068.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/ZM/Y1HGL71DBTEHO0IOFM9ZFC_Auto6.uasset'
+[2025.06.20-12.15.04:794][969]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/QQ/E8BYBQLJPDQB9YJZ6RXA79_Auto6
+[2025.06.20-12.15.04:794][969]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/E8BYBQLJPDQB9YJZ6RXA79_Auto6810120CD46818881D097FBBD8CDC045B.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/QQ/E8BYBQLJPDQB9YJZ6RXA79_Auto6.uasset'
+[2025.06.20-12.15.04:800][969]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/22/CB79FVKO1SXHY8SAJUS9M8_Auto6
+[2025.06.20-12.15.04:800][969]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/CB79FVKO1SXHY8SAJUS9M8_Auto6B2640E004E237EA51CC2A39BF43D3979.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/22/CB79FVKO1SXHY8SAJUS9M8_Auto6.uasset'
+[2025.06.20-12.15.04:803][969]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/J3/6NOQYEE1GYT4WM76WGHXDV_Auto6
+[2025.06.20-12.15.04:803][969]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/6NOQYEE1GYT4WM76WGHXDV_Auto6EB84B9AA46DE7DB52E0A60811EFFBE59.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/J3/6NOQYEE1GYT4WM76WGHXDV_Auto6.uasset'
+[2025.06.20-12.15.04:828][969]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/RT/GRK3I3WSGX9K33HQWA6NH3_Auto6
+[2025.06.20-12.15.04:828][969]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/GRK3I3WSGX9K33HQWA6NH3_Auto6EFC94D5E49DE2C8BAF1F30B41D74365D.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/RT/GRK3I3WSGX9K33HQWA6NH3_Auto6.uasset'
+[2025.06.20-12.15.04:831][969]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.095
+[2025.06.20-12.15.04:831][969]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.095
+[2025.06.20-12.17.37:194][261]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5546.389160
+[2025.06.20-12.17.37:387][269]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.20-12.17.37:387][269]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5546.556641, Update Interval: 302.878510
+[2025.06.20-12.23.38:666][192]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5907.891113
+[2025.06.20-12.23.38:859][200]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.20-12.23.38:859][200]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5908.061035, Update Interval: 319.893188
+[2025.06.20-12.27.09:187][466]LogSlate: Took 0.045524 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.06.20-12.27.10:703][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.06.20-12.27.10:709][506]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.148
+[2025.06.20-12.27.10:710][506]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TopDown/UI/WB_ShooterHUD] ([2] browsable assets)...
+[2025.06.20-12.27.10:715][506]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/TopDown/UI/WB_ShooterHUD.WB_ShooterHUD]
+[2025.06.20-12.27.10:715][506]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/UI/WB_ShooterHUD]
+[2025.06.20-12.27.10:728][506]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/UI/WB_ShooterHUD_Auto7
+[2025.06.20-12.27.10:728][506]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/WB_ShooterHUD_Auto7B9D41EF1449BA3196C867CBEAAAFBFEE.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/Autosaves/Game/TopDown/UI/WB_ShooterHUD_Auto7.uasset'
+[2025.06.20-12.27.10:729][506]LogFileHelpers: Auto-saving content packages took 0.020
+[2025.06.20-12.28.31:631][347]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2025.06.20-12.29.35:866][151]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6265.098145
+[2025.06.20-12.29.36:056][158]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.20-12.29.36:056][158]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6265.260254, Update Interval: 320.871002
+[2025.06.20-12.30.46:395][591]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18423381315631060749
+[2025.06.20-12.30.46:396][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-12.30.46:414][592]LogSlate: Took 0.010640 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.06.20-12.30.46:427][592]LogSlate: Took 0.008233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.06.20-12.30.46:435][592]LogSlate: Took 0.006708 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.06.20-12.30.46:447][592]LogSlate: Took 0.006450 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.06.20-12.30.46:450][592]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.06.20-12.30.46:452][592]LogSlate: Took 0.001248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.06.20-12.30.46:458][592]LogSlate: Took 0.006351 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.06.20-12.30.46:761][602]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 11
+[2025.06.20-12.30.46:762][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-12.30.46:770][603]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.06.20-12.30.46:776][603]LogSlate: Took 0.000256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.06.20-12.30.46:778][603]LogSlate: Took 0.000434 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.06.20-12.30.46:784][603]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.06.20-12.30.46:787][603]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.06.20-12.30.46:789][603]LogSlate: Took 0.001010 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.06.20-12.30.46:790][603]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.06.20-12.30.48:111][651]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 49
+[2025.06.20-12.30.48:112][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-12.30.48:119][652]LogSlate: Took 0.000277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.06.20-12.30.48:125][652]LogSlate: Took 0.000326 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.06.20-12.30.48:129][652]LogSlate: Took 0.000312 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.06.20-12.30.48:134][652]LogSlate: Took 0.000320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.06.20-12.30.48:137][652]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.06.20-12.30.48:139][652]LogSlate: Took 0.001138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.06.20-12.30.48:139][652]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.06.20-12.33.18:710][127]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.06.20-12.33.18:718][127]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.06.20-12.33.18:757][127]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.06.20-12.33.18:766][127]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.06.20-12.33.18:924][128]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.06.20-12.33.18:981][128]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.06.20-12.33.19:012][129]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.06.20-12.33.19:018][129]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.06.20-12.35.32:477][359]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6621.713867
+[2025.06.20-12.35.32:676][366]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.20-12.35.32:676][367]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6621.887207, Update Interval: 324.707184
+[2025.06.20-12.38.03:581][183]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2025.06.20-12.38.03:587][183]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.053
+[2025.06.20-12.38.03:588][183]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TopDown/UI/WB_ShooterHUD] ([2] browsable assets)...
+[2025.06.20-12.38.03:597][183]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/TopDown/UI/WB_ShooterHUD.WB_ShooterHUD]
+[2025.06.20-12.38.03:597][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/UI/WB_ShooterHUD]
+[2025.06.20-12.38.03:609][183]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/UI/WB_ShooterHUD_Auto8
+[2025.06.20-12.38.03:609][183]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/WB_ShooterHUD_Auto8D7D6516540E2E17C1B81D2932F278800.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/Autosaves/Game/TopDown/UI/WB_ShooterHUD_Auto8.uasset'
+[2025.06.20-12.38.03:612][183]LogFileHelpers: Auto-saving content packages took 0.023
+[2025.06.20-12.39.40:692][297]LogSlate: Window 'Color Picker' being destroyed
+[2025.06.20-12.39.49:193][494]LogSlate: Window 'Color Picker' being destroyed
+[2025.06.20-12.39.55:335][709]LogSlate: Window 'Color Picker' being destroyed
+[2025.06.20-12.41.08:149][ 87]LogSlate: Window 'Color Picker' being destroyed
+[2025.06.20-12.41.45:466][559]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 16908
+[2025.06.20-12.41.45:467][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-12.41.45:478][560]LogSlate: Took 0.000353 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.06.20-12.41.45:488][560]LogSlate: Took 0.000606 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.06.20-12.41.45:490][560]LogSlate: Took 0.000463 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.06.20-12.41.45:497][560]LogSlate: Took 0.000298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.06.20-12.41.45:503][560]LogSlate: Took 0.000427 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.06.20-12.41.45:523][560]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.06.20-12.41.49:278][634]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6998.520020
+[2025.06.20-12.41.49:508][637]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.20-12.41.49:508][637]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6998.718750, Update Interval: 353.201080
+[2025.06.20-12.42.46:039][165]LogSlate: Took 0.008278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.06.20-12.43.22:777][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2025.06.20-12.44.10:045][110]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: d36...78e
+[2025.06.20-12.44.10:045][110]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.98 RefreshExpires: 1.554e+07
+[2025.06.20-12.44.10:251][120]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: d36...78e Access[Expires: 2025.06.20-14.44.11 Remaining: 7200.57] Refresh[Expires: 2025-12-17T10:42:32.482Z Remaining: 15544701.48] State: Valid
+[2025.06.20-12.46.21:616][101]LogDerivedDataCache: C:/Users/llewd/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.06.20-12.48.18:667][351]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7387.907227
+[2025.06.20-12.48.18:870][358]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.20-12.48.18:870][358]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7388.089355, Update Interval: 334.038513
+[2025.06.20-12.50.44:021][940]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2025.06.20-12.50.44:026][940]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.249
+[2025.06.20-12.50.44:029][940]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownGameMode] ([2] browsable assets)...
+[2025.06.20-12.50.44:029][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownGameMode]
+[2025.06.20-12.50.44:042][940]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Blueprints/BP_TopDownGameMode_Auto9
+[2025.06.20-12.50.44:042][940]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/BP_TopDownGameMode_Auto96E07C3BC4ED501BD1BCBD28D1B8C4F8F.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/Autosaves/Game/TopDown/Blueprints/BP_TopDownGameMode_Auto9.uasset'
+[2025.06.20-12.50.44:044][940]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Blueprints/CompHealth] ([2] browsable assets)...
+[2025.06.20-12.50.44:044][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/CompHealth]
+[2025.06.20-12.50.44:059][940]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Blueprints/CompHealth_Auto9
+[2025.06.20-12.50.44:059][940]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/CompHealth_Auto948735B8E44748AB71E2A40AD9B82EAD4.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/Autosaves/Game/TopDown/Blueprints/CompHealth_Auto9.uasset'
+[2025.06.20-12.50.44:061][940]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/UI/HUD_Shooter] ([2] browsable assets)...
+[2025.06.20-12.50.44:061][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/UI/HUD_Shooter]
+[2025.06.20-12.50.44:068][940]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/UI/HUD_Shooter_Auto9
+[2025.06.20-12.50.44:068][940]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/HUD_Shooter_Auto997C0701A4C3FEDA1496AB292D11C90A2.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/Autosaves/Game/TopDown/UI/HUD_Shooter_Auto9.uasset'
+[2025.06.20-12.50.44:070][940]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TopDown/UI/WB_ShooterHUD] ([2] browsable assets)...
+[2025.06.20-12.50.44:078][940]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/TopDown/UI/WB_ShooterHUD.WB_ShooterHUD]
+[2025.06.20-12.50.44:078][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/UI/WB_ShooterHUD]
+[2025.06.20-12.50.44:111][940]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/UI/WB_ShooterHUD_Auto9
+[2025.06.20-12.50.44:111][940]LogSavePackage: Moving '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/WB_ShooterHUD_Auto93FBF3FD84730F0A96D0130A94957DF3A.tmp' to '../../../../../../Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Saved/Autosaves/Game/TopDown/UI/WB_ShooterHUD_Auto9.uasset'
+[2025.06.20-12.50.44:112][940]LogFileHelpers: Auto-saving content packages took 0.084
+[2025.06.20-12.51.23:633][399]LogSlate: Took 0.001250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.06.20-12.51.58:531][567]LogSlate: Window 'Color Picker' being destroyed

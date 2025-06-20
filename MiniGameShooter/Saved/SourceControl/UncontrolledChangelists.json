@@ -20,7 +20,10 @@
 				"C:/Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/Blueprints/BPI_Health.uasset",
 				"C:/Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/Blueprints/CompHealth.uasset",
 				"C:/Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/UI/WB_HealthBar.uasset",
-				"C:/Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/Blueprints/BP_SpawnerBase.uasset"
+				"C:/Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/Blueprints/BP_SpawnerBase.uasset",
+				"C:/Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
+				"C:/Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/UI/WB_ShooterHUD.uasset",
+				"C:/Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/UI/HUD_Shooter.uasset"
 			]
 		}
 	]
