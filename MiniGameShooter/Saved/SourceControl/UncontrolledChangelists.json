@@ -14,7 +14,6 @@
 				"C:/Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/Characters/Mannequins/Materials/Instances/Enemy/MI_Enemy_01.uasset",
 				"C:/Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/Characters/Mannequins/Materials/Instances/Enemy/MI_Enemy_02.uasset",
 				"C:/Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
-				"C:/Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/__ExternalActors__/TopDown/Maps/TopDownMap/4/Y9/AU7XC11T5Z9IQF8GT53LL8.uasset",
 				"C:/Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/Input/Actions/IA_PrimaryAttack.uasset",
 				"C:/Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/Gameplay/BP_Projectile.uasset",
 				"C:/Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/Blueprints/BPI_Health.uasset",
@@ -28,7 +27,12 @@
 				"C:/Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/QQ/E8BYBQLJPDQB9YJZ6RXA79.uasset",
 				"C:/Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/22/CB79FVKO1SXHY8SAJUS9M8.uasset",
 				"C:/Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/J3/6NOQYEE1GYT4WM76WGHXDV.uasset",
-				"C:/Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/RT/GRK3I3WSGX9K33HQWA6NH3.uasset"
+				"C:/Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/RT/GRK3I3WSGX9K33HQWA6NH3.uasset",
+				"C:/Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/MainMenuMap.umap",
+				"C:/Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/Input/Actions/IA_Pause.uasset",
+				"C:/Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/UI/MAINMENU.uasset",
+				"C:/Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/TopDown/UI/MenuGamemode.uasset",
+				"C:/Users/llewd/My project/MiniGameUnreal5/MiniGameShooter/Content/__ExternalActors__/TopDown/Maps/TopDownMap/4/Y9/AU7XC11T5Z9IQF8GT53LL8.uasset"
 			]
 		}
 	]
